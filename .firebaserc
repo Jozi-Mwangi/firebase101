@@ -1,6 +1,7 @@
 {
   "projects": {
-    "Friendly Chat": "friendly-chat-99b2a"
+    "Friendly Chat": "friendly-chat-99b2a",
+    "default": "friendly-chat-99b2a"
   },
   "targets": {},
   "etags": {}
